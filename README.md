@@ -1,5 +1,5 @@
-# Projects--I-karen-Cibersecurity
-# Hi there! I'm Karen Correa
+# Projects--Cibersecurity
+# Hi there!
 
 ## Sobre mí  
 Me apasiona la ciberseguridad y el desarrollo web. Me encanta profundizar en la tecnología, resolver problemas y crear proyectos que no solo me desafían, sino que también ayudan a otros a aprender. ¡siempre aprendiendo!
