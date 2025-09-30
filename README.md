@@ -10,11 +10,5 @@ Me apasiona la ciberseguridad y el desarrollo web. Me encanta profundizar en la 
 - Git y GitHub para colaboración y control de versiones  
 - Conceptos básicos de redes y protocolos
 
-
-## 📫 Contact Me  
-[LinkedIn](linkedin.com/in/karen-cor217)
-
----
-
 Thanks for visiting my profile! 
 
